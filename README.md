@@ -1,5 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hey%20Everyone!!&fontSize=80&animation=twinkling" />
+</p>
+
+<h2 align="center">Let's Connect and Chat! </h2>
+<p align="center">
   <a href="#"><img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png"/></a>
   <a href="#"><img height="50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-1024.png"/></a>
   <a href="#">
