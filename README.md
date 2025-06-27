@@ -26,12 +26,12 @@ education:
 
 fields_of_interest:
   [
-    "Web Development"
+    "Full Stack Web Development"
     "Quantitative Analysis"
-    "UI/UX"
+    "Machine Learning"
   ]
 
-currently_learning:["building my personal website"]
+currently_learning:["implementing LLM"]
 2025_goals:["find an internship, create 5 projects, 5 extensions"]
 hobbies:["hiking","travel","water sports","reading"]
 ```
