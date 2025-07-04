@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/loh-zi-rui-927665203"><img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png"/></a>
   <a href="#"><img height="50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-1024.png"/></a>
-  <a href="#"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/></a>
+<!--   <a href="#"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/></a> -->
   <a href="mailto:ziruiloh0110@gmail.com"><img height="50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-256.png"/></a>
   
 </p>
