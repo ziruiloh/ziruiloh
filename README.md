@@ -16,7 +16,7 @@ name: Jamie Loh
 currently_in: Wisconsin, United States
 originally_from: Kuala Lumpur, Malaysia
 expect_to_graduate_in: Spring 2026
-current_job: seeking
+current_job: AI Engineer
 
 education:
   [
@@ -27,7 +27,6 @@ education:
 fields_of_interest:
   [
     "Full Stack Web Development"
-    "Quantitative Analysis"
     "Machine Learning"
   ]
 
