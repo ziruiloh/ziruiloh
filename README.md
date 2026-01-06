@@ -28,10 +28,12 @@ fields_of_interest:
   [
     "Full Stack Web Development"
     "Machine Learning"
+    "Product Management"
+    "UIUX Design"
   ]
 
 currently_learning:["LLM and AI Agent"]
-2025_goals:["Full time job, create 5 projects"]
+2026_goals:["Full time job, create 5 projects"]
 hobbies:["hiking","travel","water sports","reading"]
 ```
 <h2>  &nbsp;Some Tools I Have Used and Learned</h2>
