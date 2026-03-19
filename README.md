@@ -16,7 +16,7 @@ name: Jamie Loh
 currently_in: Wisconsin, United States
 originally_from: Kuala Lumpur, Malaysia
 expect_to_graduate_in: Spring 2026
-current_job: AI Engineer
+current_job: Web Developer
 
 education:
   [
@@ -33,7 +33,7 @@ fields_of_interest:
   ]
 
 currently_learning:["LLM and AI Agent"]
-2026_goals:["Full time job, create 5 projects"]
+2026_goals:["Full time job, create 2 projects"]
 hobbies:["hiking","travel","water sports","reading"]
 ```
 <h2>  &nbsp;Some Tools I Have Used and Learned</h2>
